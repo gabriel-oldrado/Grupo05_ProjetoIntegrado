@@ -1,0 +1,134 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="02-arquitetura-distribuida" name="Arquitetura do sistema distribuído">
+    <mxGraphModel dx="1172" dy="661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1080" pageHeight="686" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sAcmuVZObPZVCuusmLkc-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=3;" value="" vertex="1">
+          <mxGeometry height="434" width="1035" x="27" y="182" as="geometry" />
+        </mxCell>
+        <mxCell id="label2" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#15589D;fontSize=15;fontStyle=1;" value="PROJETO INTEGRADO   /   GRUPO 05   /   FIGURA 02" vertex="1">
+          <mxGeometry height="21" width="700" x="44" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label3" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#13283C;fontSize=40;fontStyle=1;" value="Arquitetura do sistema distribuído" vertex="1">
+          <mxGeometry height="46" width="990" x="44" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="label4" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#455A70;fontSize=19;" value="Academic Services Uptime Monitor -Componentes e fluxos propostos" vertex="1">
+          <mxGeometry height="25" width="990" x="45" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="client" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=22;fillColor=#FFFFFF;strokeColor=#A6B9CB;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="119" width="219" x="44" y="294" as="geometry" />
+        </mxCell>
+        <mxCell id="label6" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#15589D;fontSize=13;fontStyle=1;" value="ALUNO OU FUNCIONÁRIO" vertex="1">
+          <mxGeometry height="19" width="189" x="59" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="label7" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#13283C;fontSize=22;fontStyle=1;" value="Navegador" vertex="1">
+          <mxGeometry height="28" width="189" x="59" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="label8" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#455A70;fontSize=16;" value="Exibe o painel web" vertex="1">
+          <mxGeometry height="22" width="189" x="59" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="monitor" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=22;fillColor=#FFFFFF;strokeColor=#15589D;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="143" width="270" x="397" y="282" as="geometry" />
+        </mxCell>
+        <mxCell id="label10" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#15589D;fontSize=13;fontStyle=1;" value="A IMPLEMENTAR" vertex="1">
+          <mxGeometry height="19" width="240" x="412" y="293" as="geometry" />
+        </mxCell>
+        <mxCell id="label11" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#13283C;fontSize=22;fontStyle=1;" value="Monitor e painel web" vertex="1">
+          <mxGeometry height="28" width="240" x="412" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="label12" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#455A70;fontSize=16;" value="Consulta em intervalos" vertex="1">
+          <mxGeometry height="22" width="240" x="412" y="346" as="geometry" />
+        </mxCell>
+        <mxCell id="label13" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#455A70;fontSize=16;" value="Mede e classifica respostas" vertex="1">
+          <mxGeometry height="22" width="240" x="412" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="label14" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#455A70;fontSize=16;" value="Serve a página de status" vertex="1">
+          <mxGeometry height="22" width="240" x="412" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="portal" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=22;dashed=1;dashPattern=4 3;fillColor=#F1FAF7;strokeColor=#237166;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="113" width="225" x="811" y="202" as="geometry" />
+        </mxCell>
+        <mxCell id="label16" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#237166;fontSize=13;fontStyle=1;" value="SERVIÇO SIMULADO" vertex="1">
+          <mxGeometry height="19" width="195" x="826" y="213" as="geometry" />
+        </mxCell>
+        <mxCell id="label17" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#13283C;fontSize=22;fontStyle=1;" value="Portal Acadêmico" vertex="1">
+          <mxGeometry height="28" width="195" x="826" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="label18" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#455A70;fontSize=16;" value="Responde ao GET /health" vertex="1">
+          <mxGeometry height="22" width="195" x="826" y="266" as="geometry" />
+        </mxCell>
+        <mxCell id="library" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=22;dashed=1;dashPattern=4 3;fillColor=#F1FAF7;strokeColor=#237166;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="113" width="225" x="811" y="391" as="geometry" />
+        </mxCell>
+        <mxCell id="label20" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#237166;fontSize=13;fontStyle=1;" value="SERVIÇO SIMULADO" vertex="1">
+          <mxGeometry height="19" width="195" x="826" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="label21" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#13283C;fontSize=22;fontStyle=1;" value="Biblioteca Online" vertex="1">
+          <mxGeometry height="28" width="195" x="826" y="424" as="geometry" />
+        </mxCell>
+        <mxCell id="label22" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#455A70;fontSize=16;" value="Responde ao GET /health" vertex="1">
+          <mxGeometry height="22" width="195" x="826" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="record" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=22;fillColor=#FFFFFF;strokeColor=#A6B9CB;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="111" width="270" x="397" y="489" as="geometry" />
+        </mxCell>
+        <mxCell id="label24" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#15589D;fontSize=13;fontStyle=1;" value="A IMPLEMENTAR" vertex="1">
+          <mxGeometry height="19" width="240" x="412" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="label25" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#13283C;fontSize=22;fontStyle=1;" value="Registro local" vertex="1">
+          <mxGeometry height="28" width="240" x="412" y="522" as="geometry" />
+        </mxCell>
+        <mxCell id="label26" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#455A70;fontSize=16;" value="Data/hora, status e tempo (ms)" vertex="1">
+          <mxGeometry height="22" width="240" x="412" y="553" as="geometry" />
+        </mxCell>
+        <mxCell id="client-monitor" edge="1" parent="1" source="client" style="edgeStyle=none;rounded=0;strokeColor=#15589D;strokeWidth=2;startArrow=block;endArrow=block;startFill=1;endFill=1;exitX=1;exitY=0.5042016806722689;entryX=0;entryY=0.5034965034965035;exitPerimeter=0;entryPerimeter=0;" target="monitor">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="monitor-portal" edge="1" parent="1" source="monitor" style="edgeStyle=none;rounded=0;strokeColor=#15589D;strokeWidth=2;startArrow=block;endArrow=block;startFill=1;endFill=1;exitX=1;exitY=0.2727272727272727;entryX=0;entryY=0.49557522123893805;exitPerimeter=0;entryPerimeter=0;" target="portal">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="714" y="321" />
+              <mxPoint x="714" y="258" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="monitor-library" edge="1" parent="1" source="monitor" style="edgeStyle=none;rounded=0;strokeColor=#15589D;strokeWidth=2;startArrow=block;endArrow=block;startFill=1;endFill=1;exitX=1;exitY=0.7552447552447552;entryX=0;entryY=0.49557522123893805;exitPerimeter=0;entryPerimeter=0;" target="library">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="714" y="390" />
+              <mxPoint x="714" y="447" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="monitor-record" edge="1" parent="1" source="monitor" style="edgeStyle=none;rounded=0;strokeColor=#15589D;strokeWidth=2;startArrow=block;endArrow=block;startFill=1;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=0;entryPerimeter=0;" target="record">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="label31" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#15589D;fontSize=16;fontStyle=1;" value="GET /" vertex="1">
+          <mxGeometry height="22" width="128" x="266" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="label32" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#455A70;fontSize=16;" value="Página HTML" vertex="1">
+          <mxGeometry height="22" width="128" x="266" y="366" as="geometry" />
+        </mxCell>
+        <mxCell id="label33" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#15589D;fontSize=15;fontStyle=1;" value="GET /health" vertex="1">
+          <mxGeometry height="21" width="94" x="716" y="227" as="geometry" />
+        </mxCell>
+        <mxCell id="label34" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#455A70;fontSize=15;" value="Status HTTP" vertex="1">
+          <mxGeometry height="21" width="94" x="716" y="267" as="geometry" />
+        </mxCell>
+        <mxCell id="label35" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#15589D;fontSize=15;fontStyle=1;" value="GET /health" vertex="1">
+          <mxGeometry height="21" width="94" x="716" y="416" as="geometry" />
+        </mxCell>
+        <mxCell id="label36" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#455A70;fontSize=15;" value="Status HTTP" vertex="1">
+          <mxGeometry height="21" width="94" x="716" y="456" as="geometry" />
+        </mxCell>
+        <mxCell id="label37" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#15589D;fontSize=16;fontStyle=1;" value="Grava e consulta" vertex="1">
+          <mxGeometry height="22" width="168" x="548" y="444" as="geometry" />
+        </mxCell>
+        <mxCell id="label38" parent="1" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Segoe UI;fontColor=#13283C;fontSize=17;" value="Falha prevista : Se a Biblioteca parar, o monitor sinaliza a indisponibilidade e segue consultando o Portal." vertex="1">
+          <mxGeometry height="23" width="990" x="45" y="628" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
